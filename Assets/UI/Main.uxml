@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd">
+    <Style src="project://database/Assets/UI/Main.uss?fileID=7433441132597879392&amp;guid=001e57c8368824e4bb8acbc00596b163&amp;type=3#Main" />
+    <ui:VisualElement name="Buh" style="flex-grow: 1; height: 50px; width: 52px; background-color: rgb(255, 0, 0); left: 50%; top: 50%; transform-origin: left top; -unity-background-scale-mode: stretch-to-fill;" />
+</ui:UXML>
